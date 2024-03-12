@@ -1,6 +1,6 @@
 from MinuOmaMoodul import*
-salasõnad=["Parool.1"]
-kasutajanimed=["Kasutaja1"]
+salasõnad=####loe_failist["Parool.1"]
+kasutajanimed=####loe_failist["Kasutaja1"]
 while True:
     print(Kasutajanimed)
     print(salasõnad)
